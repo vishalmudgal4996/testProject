@@ -3,3 +3,6 @@ public class testProgram{
      System.out.println("first changes");  
     }  
 }  
+/* changes done by first branch */
+case 1:multiplication
+case 2:division
