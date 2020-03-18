@@ -13,4 +13,6 @@ case 2:division
 case 3:addition
 case 4:substraction
 
+/*  checking cloning */
+
 
